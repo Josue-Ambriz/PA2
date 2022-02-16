@@ -84,15 +84,11 @@
       <hr>
     </div>
 
-
       <div id="skills" class="content-item">
         <div class="vertical-center">
           <h2>Skills</h2>
-          <?php foreach($json_data['skills'] AS $skills) { ?>
-                    <p><?php echo $skills['*']; ?></p>
-                    <p><?php echo $skills['*']; ?></p>
-                    <p><?php echo $skills['*']; ?></p>
-          <?php  } ?>
+          <h2><?php echo $json_data['skills']; ?><h2>
+              <p>...</p>
         </div>
       </div>
       <hr>
