@@ -1,17 +1,46 @@
 {
-  "first-name": "sdimfoind",
-  "last-name": "dsmfpos",
+  "first-name": "Josue",
+  "last-name": "Ambriz",
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(123)456-7890",
   "email": "006926147@coyote.csusb.edu",
-  "introduction": "A introduction of youself ...",
+  "introduction": " ",
+  
+  "education":
+  [
+    {
+      "college":"Currently attending California State University San Bernardino",
+      "period":"August 2016 - Present",
+      "major":" "
+    }
+  ]
+  
   "experience":
   [
     {
       "title":"Sound Technician",
-      "employer":"CSUSB",
-      "period":"March 2018 - Present",
+      "employer":"Templo Ebenezer Assemblies of God",
+      "period":"August 2016 - Present",
       "description":"A description of your experience with this job."
     }
   ]
+  
+  "skills":
+  [
+    {
+      "college":"Currently attending California State University San Bernardino",
+      "period":"August 2016 - Present",
+      "major":" "
+    }
+  ]
+
+  "interest":
+  [
+    {
+      "college":"Currently attending California State University San Bernardino",
+      "period":"August 2016 - Present",
+      "major":" "
+    }
+  ]
+
 }
