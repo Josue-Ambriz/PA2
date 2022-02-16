@@ -35,9 +35,9 @@
      "skills":
   [
     {
-      "(A)":"booty"
-      "(B)":"booty"
-      "(C)":"booty"
+      "*":"booty"
+      "*":"booty"
+      "*":"booty"
     }
   ],
   
