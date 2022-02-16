@@ -89,8 +89,6 @@
         <div class="vertical-center">
           <h2>Skills</h2>
           <?php foreach($json_data['skills'] AS $skills) { ?>
-              <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
                     <p><?php echo $skills['*']; ?></p>
                     <p><?php echo $skills['*']; ?></p>
                     <p><?php echo $skills['*']; ?></p>
