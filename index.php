@@ -30,7 +30,7 @@
       <div id="about" class="content-item">
         <div class="vertical-center">
           <h1>
-              <?php echo $json_data['first-name']; ?>
+              <?php echo $json_data['Josue']; ?>
               <span class="text-primary"><?php echo $json_data['last-name']; ?></span>
             </h1>
           <div class="subheading mb-3">
