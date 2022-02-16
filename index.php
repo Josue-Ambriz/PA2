@@ -70,9 +70,12 @@
           <?php foreach($json_data['experience'] AS $experience) { ?>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
+                  <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
+                  <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
                   <p><?php echo $experience['description']; ?></p>
                 </div>
                 <div class="flex-shrink-0">
+                  <span class="text-primary"><?php echo $experience['period']; ?></span>
                 </div>
               </div>
           <?php  } ?>
@@ -105,15 +108,12 @@
       <div id="interests" class="content-item">
         <div class="vertical-center">
           <h2>Interests</h2>
-          <?php foreach($json_data['interests'] AS $interests) { ?>
+          <?php foreach($json_data['Interests'] AS $interests) { ?>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                  <h3 class="mb-0"><?php echo $interests['title']; ?></h3>
-                  <div class="subheading mb-3"><?php echo $interests['employer']; ?></div>
                   <p><?php echo $interests['description']; ?></p>
                 </div>
                 <div class="flex-shrink-0">
-                  <span class="text-primary"><?php echo $interests['period']; ?></span>
                 </div>
               </div>
           <?php  } ?>
