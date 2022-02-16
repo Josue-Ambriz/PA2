@@ -22,6 +22,7 @@
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
+          <a class="nav-link" href="#skills">Skills</a>
         </nav>
       </nav>
     </div>
@@ -78,6 +79,8 @@
                 <div class="flex-grow-1">
                   <h3 class="mb-0"><?php echo $skills['description']; ?></h3>
                   <div class="subheading mb-3"><?php echo $skills['description']; ?></div>
+                </div>
+              </div>
           <?php  } ?>
         </div>
       </div>
