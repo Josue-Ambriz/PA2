@@ -76,14 +76,8 @@
           <?php foreach($json_data['skills'] AS $skills) { ?>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                  <h3 class="mb-0"><?php echo $skills['title']; ?></h3>
-                  <div class="subheading mb-3"><?php echo $skills['employer']; ?></div>
-                  <p><?php echo $eskills['description']; ?></p>
-                </div>
-                <div class="flex-shrink-0">
-                  <span class="text-primary"><?php echo $skills['period']; ?></span>
-                </div>
-              </div>
+                  <h3 class="mb-0"><?php echo $skills['description']; ?></h3>
+                  <div class="subheading mb-3"><?php echo $skills['description']; ?></div>
           <?php  } ?>
         </div>
       </div>
