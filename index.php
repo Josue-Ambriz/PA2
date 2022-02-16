@@ -29,7 +29,10 @@
     <div data-bs-offset="0" tabindex="0">
       <div id="about" class="content-item">
         <div class="vertical-center">
-          <h1><?php echo $json_data['first-name']; ?><span class="text-primary"><?php echo $json_data['last-name']; ?></span></h1>
+          <h1>
+              <?php echo $json_data['first-name']; ?>
+              <span class="text-primary"><?php echo $json_data['last-name']; ?></span>
+            </h1>
           <div class="subheading mb-3">
             <?php echo $json_data['address']; ?> · <?php echo $json_data['phone']; ?> ·
             <a href="<?php echo $json_data['email']; ?>"><?php echo $json_data['email']; ?></a>
@@ -38,6 +41,7 @@
         </div>
       </div>
       <hr>
+        
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2>Education</h2>
@@ -45,6 +49,7 @@
         </div>
       </div>
       <hr>
+        
       <div id="experience" class="content-item">
         <div class="vertical-center">
           <h2>Experience</h2>
