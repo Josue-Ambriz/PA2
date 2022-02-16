@@ -6,15 +6,6 @@
   "email": "006926147@coyote.csusb.edu",
   "introduction": " ",
   
-  "education":
-  [
-    {
-      "college":"Currently attending California State University San Bernardino",
-      "period":"August 2016 - Present",
-      "major":" "
-    }
-  ]
-  
   "experience":
   [
     {
@@ -24,25 +15,6 @@
       "description":"A description of your experience with this job."
     }
   ]
-  
-  "skills":
-  [
-    {
-      "title":"Sound Technician",
-      "employer":"Templo Ebenezer Assemblies of God",
-      "period":"August 2016 - Present",
-      "description":"A description of your experience with this job."
-    }
-  ]
-
-  "interest":
-  [
-    {
-      "title":"Sound Technician",
-      "employer":"Templo Ebenezer Assemblies of God",
-      "period":"August 2016 - Present",
-      "description":"A description of your experience with this job."
-    }
-  ]
+ 
 
 }
