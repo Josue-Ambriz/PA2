@@ -91,9 +91,9 @@
           <?php foreach($json_data['skills'] AS $skills) { ?>
               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                    <p><?php echo $skills['(A)']; ?></p>
-                    <p><?php echo $skills['(B)']; ?></p>
-                    <p><?php echo $skills['(C)']; ?></p>
+                    <p><?php echo $skills['*']; ?></p>
+                    <p><?php echo $skills['*']; ?></p>
+                    <p><?php echo $skills['*']; ?></p>
           <?php  } ?>
         </div>
       </div>
