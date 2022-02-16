@@ -94,8 +94,6 @@
                     <p><?php echo $skills['(A)']; ?></p>
                     <p><?php echo $skills['(B)']; ?></p>
                     <p><?php echo $skills['(C)']; ?></p>
-                </div>
-              </div>
           <?php  } ?>
         </div>
       </div>
