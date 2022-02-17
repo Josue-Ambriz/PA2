@@ -2,9 +2,9 @@
   "first-name": "Josue",
   "last-name": "Ambriz",
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
-  "phone": "(123)456-7890",
+  "phone": "(123)690-7777",
   "email": "name@mail.com",
-  "introduction": "A introduction of yourself ...",
+  "introduction": "Here is a resume for future usage.",
   
   "education":
   [
@@ -12,37 +12,39 @@
       "title":"CSUSB",
       "subtitle":"Computer Engineering",
       "period":"August 2019 - Present",
-      "description":"A description of your experience with this job."
+      "description":"Taken various computing, physics, mathematics, and music courses throughout the years attended here. Currently on my third year at this college."
     }
   ],
   
   "experience":
   [
     {
-      "title":"WEB DEVELOPER",
+      "title":"COMPUTER PROGRAMMER",
       "employer":"CSUSB",
-      "period":"March 2018 - Present",
-      "description":"A description of your experience with this job."
+      "period":"August 2019 - Present",
+      "description":"Taken various courses within the Computer Science and Engineering field."
     },
     {
-      "title":"APPLICATION DEVELOPER",
+      "title":"SOUND TECHNICIAN",
       "employer":"CSUSB",
-      "period":"March 2018 - 2021",
-      "description":"A description of your experience with this job."
+      "period":"January 2017 - Present",
+      "description":"Voluntary work to manage sound/audio systems and maintenance."
     }
   ],
   
      "skills":
   [
     {
-      "*":"booty"
+      "details1":"Programming languages: C++, php, python, Java, JavaScipts, HTML, CSS",
+      "details2":"Computer Programmer",
+      "details3":"Drummer"
     }
   ],
   
    "interests":
   [
     {
-      "description":"A description of your experience with this job."
+      "description":"I enjoy playing video games, exercising with my dog, building PCs, and staying up-to-date with the technological world."
     }
   ]
    
