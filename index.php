@@ -87,8 +87,9 @@
       <div id="skills" class="content-item">
         <div class="vertical-center">
           <h2>Skills</h2>
-          <h4><?php echo $json_data['skills']; ?><h4>
-              <p>...</p>
+          <?php foreach($json_data['skills'] AS $skills) { ?>
+          <div class="subheading mb-3"><?php echo $skills['*']; ?></div>
+       <?php  } ?>
         </div>
       </div>
       <hr>
