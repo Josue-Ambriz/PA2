@@ -88,7 +88,9 @@
         <div class="vertical-center">
           <h2>Skills</h2>
           <?php foreach($json_data['skills'] AS $skills) { ?>
-          <div class="subheading mb-3"><?php echo $skills['*']; ?></div>
+          <div class="subheading mb-3"><?php echo $skills['details1']; ?></div>
+          <div class="subheading mb-3"><?php echo $skills['details2']; ?></div>
+          <div class="subheading mb-3"><?php echo $skills['details3']; ?></div>
        <?php  } ?>
         </div>
       </div>
