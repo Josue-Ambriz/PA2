@@ -1,4 +1,4 @@
-{
+l{
   "first-name": "Josue",
   "last-name": "Ambriz",
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
@@ -26,7 +26,7 @@
     },
     {
       "title":"SOUND TECHNICIAN",
-      "employer":"CSUSB",
+      "employer":"Templo Ebenezer",
       "period":"January 2017 - Present",
       "description":"Voluntary work to manage sound/audio systems and maintenance."
     }
@@ -36,7 +36,7 @@
   [
     {
       "details1":"Programming languages: C++, php, python, Java, JavaScipts, HTML, CSS",
-      "details2":"Computer Programmer",
+      "details2":"Computer Programmer/Engineer",
       "details3":"Drummer"
     }
   ],
